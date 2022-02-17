@@ -1,2 +1,2 @@
-# Miwok-App-
+# Miwo-Learn-App-
 
